@@ -9,12 +9,12 @@
         </div>
         <div class="copyright">
           <p>
-            &copy; {{ new Date().getFullYear() }} Tokyo <br />
+            &copy; {{ new Date().getFullYear() }} Website <br />
             Created by<a
-              href="https://themeforest.net/user/ib-themes"
+              href="https://didudia.github.io/"
               target="_blank"
               rel="noreferrer"
-              >Ib-Themes</a
+              >MichaelWang</a
             >
           </p>
         </div>
@@ -42,11 +42,11 @@
     <footer class="footer-wrapper">
       <div class="copyright">
         <p>
-          © 2021 Tokyo Created by<a
-            href="https://themeforest.net/user/ib-themes"
+          © 2022 Website Created by<a
+            href="https://didudia.github.io/"
             target="_blank"
             rel="noreferrer"
-            >Ib-Themes</a
+            >MichaelWang</a
           >
         </p>
       </div>

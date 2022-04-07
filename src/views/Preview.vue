@@ -28,7 +28,7 @@
       <div class="left">
         <router-link to="/home-light" target="_blank">
           <div class="desc">
-            <img src="../assets/img/intro/light.png" alt="light version demo" />
+            <img src="https://s2.loli.net/2022/04/07/9PZBwiaR8eUtKNx.png" alt="light version demo" />
             <h3 class="title">Light Demo</h3>
           </div>
         </router-link>
@@ -37,7 +37,7 @@
       <div class="right">
         <router-link to="/home-dark" target="_blank"
           ><div class="desc">
-            <img src="../assets/img/intro/dark.png" alt="dark version demo" />
+            <img src="https://s2.loli.net/2022/04/07/rHvwxFSULeN6ig8.png" alt="dark version demo" />
             <h3 class="title">Dark Demo</h3>
           </div></router-link
         >

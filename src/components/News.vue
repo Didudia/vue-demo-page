@@ -23,12 +23,12 @@
           <div class="details">
             <div class="extra">
               <p class="date">
-                By <a href="#">Alex Watson</a><span>05 April 2021</span>
+                By <a href="#">示例文章</a><span>05 April 2021</span>
               </p>
             </div>
             <!-- End meta info -->
             <h3 class="title" @click="showModal">
-              Format releases a new tool that enables direct video hosting
+              title
             </h3>
             <div class="tokyo_tm_read_more" @click="showModal">
               <a><span>Read More</span></a>
@@ -76,8 +76,7 @@
                       </p>
                     </div>
                     <h3 class="title">
-                      Format releases a new tool that enables direct video
-                      hosting
+                      Format releases a new tool that enables direct video hosting
                     </h3>
                   </div>
                   <!-- END DETAILS -->
@@ -170,12 +169,12 @@
           <div class="details">
             <div class="extra">
               <p class="date">
-                By <a href="#">Brook Kennedy</a><span>22 March 2021</span>
+                By <a href="#">示例文章</a><span>22 March 2021</span>
               </p>
             </div>
             <!-- End meta info -->
             <h3 class="title" @click="showModal2">
-              Sony announced two new full frame cameras with zero fanfare
+              title
             </h3>
             <div class="tokyo_tm_read_more" @click="showModal2">
               <a><span>Read More</span></a>
@@ -317,11 +316,11 @@
           <div class="details">
             <div class="extra">
               <p class="date">
-                By <a href="#">Paola Atkins</a><span>15 Feb 2021</span>
+                By <a href="#">示例文章</a><span>15 Feb 2021</span>
               </p>
             </div>
             <h3 class="title" @click="showModal3">
-              Why every photographer should shoot film, even in 2021
+              title
             </h3>
             <div class="tokyo_tm_read_more" @click="showModal3">
               <a><span>Read More</span></a>
@@ -460,11 +459,11 @@
           <div class="details">
             <div class="extra">
               <p class="date">
-                By <a href="#">Kevin Stone</a><span>22 Jan 2021</span>
+                By <a href="#">示例文章</a><span>22 Jan 2021</span>
               </p>
             </div>
             <h3 class="title" @click="showModal4">
-              Stay creative in lockdown with these fun photo projects
+              title
             </h3>
             <div class="tokyo_tm_read_more" @click="showModal4">
               <a><span>Read More</span></a>
@@ -605,14 +604,14 @@ export default {
       isActive2: false,
       isActive3: false,
       isActive4: false,
-      src1: require("../assets/img/news/1.jpg"),
-      src2: require("../assets/img/news/2.jpg"),
-      src3: require("../assets/img/news/3.jpg"),
-      src4: require("../assets/img/news/4.jpg"),
-      popup1: require("../assets/img/news/1.jpg"),
-      popup2: require("../assets/img/news/2.jpg"),
-      popup3: require("../assets/img/news/3.jpg"),
-      popup4: require("../assets/img/news/4.jpg"),
+      src1: "https://s2.loli.net/2022/04/07/RTLrEA3xnFN8DS9.jpg",
+      src2: "https://s2.loli.net/2022/04/07/4xDuznRJMEB5Scf.jpg",
+      src3: "https://s2.loli.net/2022/04/07/c8MqDoNk2PHulQ4.jpg",
+      src4: "https://s2.loli.net/2022/04/07/Dlci3XYyVZIT164.jpg",
+      popup1: "https://s2.loli.net/2022/04/07/RTLrEA3xnFN8DS9.jpg",
+      popup2: "https://s2.loli.net/2022/04/07/4xDuznRJMEB5Scf.jpg",
+      popup3: "https://s2.loli.net/2022/04/07/c8MqDoNk2PHulQ4.jpg",
+      popup4: "https://s2.loli.net/2022/04/07/Dlci3XYyVZIT164.jpg",
 
       isVisible: false,
       isVisible2: false,

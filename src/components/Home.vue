@@ -29,7 +29,7 @@
     },
     data() {
       return {
-        src1: require("../assets/img/slider/1.jpg"),
+        src1: "https://s2.loli.net/2022/04/07/NXoUDl6H9Eia2JQ.jpg",
       };
     },
   };

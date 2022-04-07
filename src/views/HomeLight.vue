@@ -46,16 +46,16 @@
             v-on:click="activetab = 4"
             :class="[activetab === 4 ? 'active' : '']"
             ><img class="svg" src="../assets/img/svg/paper.svg" alt="paper" />
-            <span class="menu_content">新闻页面</span></a
+            <span class="menu_content">博客示例</span></a
           >
           <!-- End News -->
-          <a
+          <!-- <a
             v-on:click="activetab = 5"
             :class="[activetab === 5 ? 'active' : '']"
           >
             <img class="svg" src="../assets/img/svg/mail.svg" alt="mail" />
             <span class="menu_content">联系页面</span></a
-          >
+          > -->
           <!-- End Contact -->
         </div>
         <div class="copyright">
@@ -109,14 +109,14 @@
   import About from "../components/About";
   import Portfolio from "../components/Portfolio";
   import News from "../components/News";
-  import Contact from "../components/Contact";
+  /* import Contact from "../components/Contact"; */
   export default {
     components: {
       Home,
       About,
       Portfolio,
       News,
-      Contact,
+      /* Contact, */
     },
     data() {
       return {

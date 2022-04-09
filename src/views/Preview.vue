@@ -21,8 +21,9 @@
     </div>
     <!-- End .short_info -->
 
-    <span class="intro_line"></span><span class="intro_line_2"></span
-    ><span class="intro_line_3"></span>
+    <!-- <span class="intro_line"></span> -->
+    <span class="intro_line_2"></span>
+    <!-- <span class="intro_line_3"></span> -->
 
     <div class="demos">
       <div class="left">

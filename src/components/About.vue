@@ -10,9 +10,11 @@
       <div class="description_inner">
         <div class="left">
           <p>
-            Hello, I am a creative photographer based in New York and happy to
-            travel all over Europe to capture your big day in candid and
-            authentic photos. I will create a lasting memory of the people.
+            基于Vue+Vue-router搭建的响应式个人展示页<br>
+            画廊组件由vue-cool-lightbox插件提供<br>博客页面展示，符合seo基本规则<br>
+            示例图片由<a href="https://sm.ms/">sm.ms图床</a>提供存储，CDN加速访问<br>
+            项目地址托管在<a href="https://github.com/Didudia/vue-demo-page" target="_blank">Github</a>，
+            部署在<a href="https://vercel.com/" target="_blank">vercel</a>
           </p>
           <!-- <div class="tokyo_tm_button">
             <button class="ib-button" @click="showModal">Read More</button>
@@ -40,15 +42,15 @@
             <li>
               <p>
                 <span>联系电话:</span
-                ><a href="tel:+8617802031811">+86 17802031811</a>
+                >+86 17802031811
               </p>
             </li>
             <li>
-              <p><span>个人网站:</span><a href="https://didudia.github.io/">didudia.github.io</a></p>
+              <p><span>个人网站:</span><a href="https://didudia.github.io/" target="_blank">didudia.github.io</a></p>
             </li>
-            <!-- <li>
-              <p><span>Freelance:</span>Available</p>
-            </li> -->
+            <li>
+              <p><span>Github:</span><a href="https://github.com/Didudia" target="_blank">github.com/Didudia</a></p>
+            </li>
           </ul>
           <!-- End ul -->
         </div>

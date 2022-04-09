@@ -1,7 +1,7 @@
 
 /*	 /*
-/*	Copyright (c) 2021 ib-themes
-/*	Author: ib-themes
+/*	Copyright (c) 2022 MichaelWang
+/*	Author: MichaelWang
 /*	This file is made for CURRENT TEMPLATE
 
 /*---------------------------------------------------*/
@@ -67,9 +67,9 @@
 	font-size: 20px;
 	font-weight: 800;
 }
-.tokyo_tm_intro .intro_line,
-.tokyo_tm_intro .intro_line_2,
-.tokyo_tm_intro .intro_line_3{
+/* .tokyo_tm_intro .intro_line, */
+.tokyo_tm_intro .intro_line_2/* ,
+.tokyo_tm_intro .intro_line_3 */{
 	position: fixed;
 	top: 0px;
 	width: 1px;
@@ -79,16 +79,16 @@
 	z-index: -1;
 	background-color: rgba(0,0,0,.06);
 }
-.tokyo_tm_intro .intro_line{
+/* .tokyo_tm_intro .intro_line{
 	left: 25%;
-}
+} */
 .tokyo_tm_intro .intro_line_2{
 	left: 50%;
 	transform: translateY(-50%);
 }
-.tokyo_tm_intro .intro_line_3{
+/* .tokyo_tm_intro .intro_line_3{
 	left: 75%;
-}
+} */
 .tokyo_tm_intro .intro_link{
 	position: absolute;
 	z-index: 2;

@@ -24,6 +24,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## ScreenShots
 
-![Home](https://github.com/Didudia/vue-demo-page/blob/main/screenshots/1.png)
+![Home](https://github.com/Didudia/vue-demo-page/blob/main/screenshot/1.png)
 
-![About](https://github.com/Didudia/vue-demo-page/blob/main/screenshots/2.png)
+![About](https://github.com/Didudia/vue-demo-page/blob/main/screenshot/2.png)

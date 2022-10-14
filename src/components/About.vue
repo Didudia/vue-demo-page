@@ -12,7 +12,7 @@
           <p>
             基于Vue搭建的响应式个人展示页<br>
             轮播图由vue-cool-lightbox插件提供<br>博客页面展示，符合seo基本规则<br>
-            示例图片由<a href="https://sm.ms/">sm.ms图床</a>提供存储，CDN加速访问<br>
+            示例图片由<a href="https://sm.ms/">sm.ms图床</a>提供存储，<a href="https://www.cloudflare.com/" target="_blank">CloudFlare</a>提供CDN<br>
             项目地址托管在<a href="https://github.com/Didudia/vue-demo-page" target="_blank">Github</a>，
             部署在<a href="https://vercel.com/" target="_blank">vercel</a>
           </p>
